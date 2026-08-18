@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your web development expertise with a sleek, modern portfolio designed to attract high-end studios, featuring detailed project case studies and a professional aesthetic.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
